@@ -32,13 +32,13 @@
 
 /* *•̩̩͙⊱••••••••••••✩ VARIABLES ✩••••̩̩͙⊰•••••••••** */
 :root {
-	--theme-name: "Black Hole";
+	--theme-name: "Dragon Test";
   --theme-version: "1.5";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
-  --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
+  --black-hole: url(https://cdn.discordapp.com/attachments/681260102421970985/691469175142612993/1084d9e359be8ba937bd551a27979ad3.jpg);
   --stars: url(https://www.freeiconspng.com/uploads/twinkle-star-png-stars-9.png);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
