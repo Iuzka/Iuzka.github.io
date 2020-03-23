@@ -38,7 +38,7 @@
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
-  --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
+  --black-hole: url(https://cdn.discordapp.com/attachments/681260102421970985/691504083936215060/938950.jpg);
   --stars: url(https://www.freeiconspng.com/uploads/twinkle-star-png-stars-9.png);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
@@ -166,7 +166,7 @@
 }
 
 .titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
-  content: "DragonFofoZap";
+  content: "Dragon";
   position: absolute;
   top: 5px;
   left: 10px;
