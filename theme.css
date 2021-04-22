@@ -129,7 +129,7 @@
     color: var(--text-normal);
   }
   
-  #app-mount .app-2rEoOp::before {
+  /* #app-mount .app-2rEoOp::before {
     content: "Your version of Frosted Glass is outdated. Please redownload";
     white-space: pre-wrap;
     display: var(--update-notice-1, block);
@@ -139,7 +139,7 @@
     box-sizing: border-box;
     background: rgb(var(--discord-blurple), 0.7);
     text-shadow: 0 2px 3px rgba(0, 0, 0, var(--text-shadow));
-  }
+  } */
   
   ::-webkit-scrollbar {
     width: 8px !important;
